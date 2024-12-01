@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Ervin!
 
-I'm a **developer in the making**, passionate about technology and continuously learning to improve my skills. Here's a little more about me:
+I'm a **developer in the progress**, passionate about technology and continuously learning to improve my skills. Here's a little more about me:
 
 ## 🔭 What I'm currently working on
 
