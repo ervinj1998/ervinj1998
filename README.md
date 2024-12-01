@@ -19,11 +19,6 @@ I'm a **developer in the making**, passionate about technology and continuously 
 - Projects related to web development or data science.
 - Any cool ideas that involve **AI** and **automation**.
 
-## 📫 How to reach me
-
-- LinkedIn: [Ervin Moreno](https://www.linkedin.com/in/ervin-moreno-19b0b11b1/)
-<!--- Portfolio: [Your Portfolio](https://your-portfolio.com)-->
-
 ## ⚡ Fun fact
 
 I believe that **technology** can help us create a better future, and I want to be a part of that change!
