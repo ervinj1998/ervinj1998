@@ -21,7 +21,7 @@ I'm a **developer in the progress**, passionate about technology and continuousl
 
 ## ⚡ Fun fact
 
-I believe that **technology** can help us create a better future, and I want to be a part of that change!
+I believe that **technology** can help us create a better future, and I want to be a part of that change!!
 <!--
 **ervinj1998/ervinj1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
